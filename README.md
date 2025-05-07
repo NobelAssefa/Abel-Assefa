@@ -52,9 +52,10 @@
 
 Here are a few projects that showcase my growth and problem-solving abilities:
 
-- 🚜 **[Project Name]** – Description of what the project does and what problem it solves
-- 📦 **[Project Name]** – Description of your role and key achievements
-- 🧠 **[Project Name]** – Short insight into how you built or learned from the project
+- 🚜 **[Guest Managment System(GMS)]** – This system is designed for organizations that regularly manage guest visits, particularly companies with hierarchical leadership structures. Typically, these companies are led by a President, followed by a Vice President (VP), and various departmental Directors. Each department may operate independently but follows a common procedure when handling guest visits.
+   As the developer, my role involved designing and implementing the system architecture to efficiently support user roles, department-specific workflows, and standardized guest management procedures across the organization. I ensured that the system was scalable, secure, and user-friendly for seamless integration into daily operations
+- 📦 **[Damascus Ecommerce]** – Damascus is a modern e-commerce system built to streamline online shopping experiences for both customers and administrators. The platform supports a full shopping lifecycle—from product discovery to secure checkout—while also providing robust tools for store management and analytics.
+- 🧠 **[Company landing pages]** – Short insight into how you built or learned from the project
 
 ---
 
